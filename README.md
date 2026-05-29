@@ -80,7 +80,6 @@ I'm a Software Engineer with experience in Java Enterprise Applications and Heal
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/subodh-raut-500462219/
-- Email: subodhrautssr7@gmail.com
 
 ---
 
