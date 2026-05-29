@@ -71,9 +71,9 @@ I'm a Software Engineer with experience in Java Enterprise Applications and Heal
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subodh-7&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subodh-7&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subodh-7&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subodh-7&layout=compact&theme=tokyonight)
 
 ---
 
