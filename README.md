@@ -246,7 +246,7 @@ Focused on building production-quality Java enterprise applications while system
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subodh-7&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&layout=compact" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Subodh-7&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&layout=compact" width="49%"/>
 
 </div>
 
