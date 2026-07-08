@@ -269,7 +269,7 @@ Focused on building production-quality Java enterprise applications while system
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Subodh-7/Subodh-7/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+![snake gif](https://github.com/Subodh-7/Subodh-7/blob/output/github-snake-dark.svg)
 </div>
 
 ---
