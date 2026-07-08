@@ -172,7 +172,7 @@ Built as a hands-on learning ground for **deep learning fundamentals**, this rep
 
 ### Software Engineering Track — Independent & Academic Projects
 **Self-Directed Engineering Practice**
-`2023 — Present`
+`2017 — Present`
 
 Focused on building production-quality Java enterprise applications while systematically expanding into AI/ML engineering through applied coursework and personal projects.
 
