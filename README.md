@@ -253,7 +253,7 @@ Focused on building production-quality Java enterprise applications while system
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Subodh-7&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Subodh-7&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=15" />
 </div>
 
 ---
