@@ -255,9 +255,9 @@ Focused on building production-quality Java enterprise applications while system
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Subodh-7&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=15" />
 </div>
--->
----
 
+---
+-->
 ## 📈 Contribution Activity
 
 <div align="center">
