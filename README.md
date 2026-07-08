@@ -32,7 +32,6 @@
 
 <br/>
 
-<img width="100%" src="https://github.com/Subodh-7/Subodh-7/raw/main/assets/purple-divider.svg" />
 
 ---
 
