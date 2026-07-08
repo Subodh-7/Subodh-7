@@ -31,7 +31,6 @@
 </div>
 
 <br/>
-<img width="100%" src="https://raw.githubusercontent.com/Subodh-7/Subodh-7/main/assets/purple-divider.svg" />
 
 ---
 
