@@ -207,7 +207,7 @@ Focused on building production-quality Java enterprise applications while system
 </div>
 
 ---
-
+<!--
 ## 📜 Certifications
 
 **Amazon Web Services**
@@ -221,7 +221,25 @@ Focused on building production-quality Java enterprise applications while system
 
 **Cisco**
 <p><img src="https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/></p>
+-->
+## 📜 Certifications
 
+| 🏢 Organization | 📜 Certification |
+|----------------|------------------|
+| 🤖 Anthropic | Claude with the Anthropic API |
+| 🤖 Anthropic | Claude with Amazon Bedrock |
+| 🤖 Anthropic | Claude with Google Vertex AI |
+| 🤖 Anthropic | Model Context Protocol: Advanced Topics |
+| 🤖 Anthropic | Claude Code 101 |
+| 🤖 Anthropic | Claude Code in Action |
+| 🌐 Google | Google AI Agents Intensive Course |
+| ☁️ AWS | AWS Certified Cloud Practitioner |
+| 🗄️ Oracle | Oracle Certified |
+| 🌐 Cisco | Cisco Certified |
+| 🎓 NPTEL | NPTEL Certified |
+| 💻 JPMorgan Chase & Co. (Forage) | Software Engineering Job Simulation |
+| 📘 Great Learning Academy | Programming Basics |
+| 💙 Scaler Academy | JavaScript Bootcamp |
 ---
 
 ## 🏅 Coding Profiles
