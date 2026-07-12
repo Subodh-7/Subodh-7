@@ -109,21 +109,78 @@ My work spans the full stack — from relational data modeling and backend servi
 ## 🚀 Featured Projects
 
 <details>
+<summary><b>🏥 HealthPulse AI</b></summary>
+<br/>
+
+An AI-powered healthcare analytics platform that predicts health risks, visualizes patient insights, and enables intelligent decision-making using machine learning.
+
+| Category | Details |
+|:--|:--|
+| **Stack** | Python · Streamlit · Pandas · Scikit-learn · Plotly |
+| **Scale** | Interactive healthcare dashboard with predictive analytics |
+| **Performance** | Optimized preprocessing pipelines for fast inference |
+| **AI Features** | Health risk prediction · Data visualization · ML pipelines |
+| **Impact** | Supports data-driven healthcare monitoring and decision making |
+| **Repository** | [View Repository](https://github.com/Subodh-7/healthpulse-ai) |
+
+Demonstrates applied machine learning, interactive dashboards, and healthcare analytics while showcasing practical AI engineering skills.
+
+</details>
+
+<details>
+<summary><b>📈 D2C Customer Churn Prediction Platform</b></summary>
+<br/>
+
+An AI-powered customer churn prediction system combining enterprise backend engineering with machine learning for customer retention analysis.
+
+| Category | Details |
+|:--|:--|
+| **Stack** | Java · Spring Boot · React · PostgreSQL · Python |
+| **Scale** | Full-stack AI application |
+| **Performance** | REST APIs with optimized database queries |
+| **AI Features** | Churn prediction · Customer segmentation · Risk scoring |
+| **Impact** | Helps businesses identify high-risk customers and improve retention |
+| **Repository** | [View Repository](https://github.com/Subodh-7) |
+
+A production-style project integrating Java backend development with AI prediction models and modern frontend technologies.
+
+</details>
+
+<details>
 <summary><b>🏥 Enterprise Hospital Management System</b></summary>
 <br/>
 
-A modular, database-driven **Hospital Management System** built to streamline patient records, appointment scheduling, and administrative workflows for healthcare providers.
+A modular Hospital Management System built to streamline patient records, appointment scheduling, and administrative workflows.
 
 | Category | Details |
 |:--|:--|
 | **Stack** | Java · Spring Boot · Hibernate · MySQL · Thymeleaf |
-| **Scale** | Multi-module enterprise architecture with role-based modules |
-| **Performance** | Optimized relational schema with indexed queries for fast record retrieval |
-| **Security** | Role-based access control, input validation, session management |
-| **Impact** | Reduced manual record-keeping overhead; centralized patient data workflows |
+| **Scale** | Enterprise multi-module architecture |
+| **Performance** | Indexed database queries for fast record retrieval |
+| **Security** | Role-based access control · Session management |
+| **Impact** | Centralized healthcare operations and patient management |
 | **Repository** | [View Repository](https://github.com/Subodh-7/Hospital-Management-System) |
 
-Engineered with a focus on **data integrity** and **separation of concerns**, this project demonstrates enterprise-grade backend architecture using the Spring ecosystem, paired with server-rendered Thymeleaf views for a lightweight, dependency-minimal frontend.
+Designed using enterprise software engineering principles with modular architecture and clean separation of concerns.
+
+</details>
+
+<details>
+<summary><b>❤️ Pet Care Manager (Agentic AI)</b></summary>
+<br/>
+
+An intelligent AI-powered pet management assistant capable of organizing feeding schedules, reminders, and care routines using modern AI agent workflows.
+
+| Category | Details |
+|:--|:--|
+| **Stack** | Python · Agent Frameworks · CLI |
+| **Scale** | AI-powered personal assistant |
+| **Performance** | Lightweight command-driven architecture |
+| **AI Features** | Scheduling · Intelligent task management · Natural language interaction |
+| **Impact** | Simplifies pet care management through AI automation |
+| **Repository** | [View Repository](https://github.com/Subodh-7) |
+
+Built while exploring modern Agentic AI concepts and intelligent assistant workflows.
 
 </details>
 
@@ -131,18 +188,18 @@ Engineered with a focus on **data integrity** and **separation of concerns**, th
 <summary><b>🏫 School Management System</b></summary>
 <br/>
 
-A full-featured **academic administration platform** covering student records, staff management, and class scheduling.
+A complete academic administration platform for managing students, staff, attendance, and scheduling.
 
 | Category | Details |
 |:--|:--|
-| **Stack** | PHP · Blade Templating · MySQL |
-| **Scale** | Multi-role system (Admin, Staff, Student) with modular controllers |
-| **Performance** | Efficient query structuring for large student datasets |
-| **Security** | Authentication & authorization layers across roles |
-| **Impact** | Streamlined administrative operations for educational institutions |
+| **Stack** | PHP · Blade · MySQL |
+| **Scale** | Multi-role administration system |
+| **Performance** | Efficient relational database operations |
+| **Security** | Authentication & Role-based authorization |
+| **Impact** | Simplifies institutional administration |
 | **Repository** | [View Repository](https://github.com/Subodh-7/school-management-system) |
 
-Contributed to and maintained as part of exploring **template-driven MVC architectures** and reinforcing backend fundamentals in a non-Java stack.
+Built to understand MVC architecture, backend development, and relational database design.
 
 </details>
 
@@ -150,18 +207,18 @@ Contributed to and maintained as part of exploring **template-driven MVC archite
 <summary><b>📊 ML & Data Analysis Toolkit</b></summary>
 <br/>
 
-A collection of **applied machine learning experiments** using Python's scientific computing stack, focused on data preprocessing, model training, and visualization.
+A collection of applied machine learning experiments covering preprocessing, visualization, model training, and evaluation.
 
 | Category | Details |
 |:--|:--|
-| **Stack** | Python · NumPy · Pandas · scikit-learn · Matplotlib · PyTorch |
-| **Scale** | End-to-end pipelines from raw data ingestion to model evaluation |
-| **Performance** | Vectorized data operations for efficient preprocessing |
-| **Security** | Environment isolation via Anaconda for dependency safety |
-| **Impact** | Strengthened applied ML foundations across supervised learning tasks |
+| **Stack** | Python · NumPy · Pandas · Scikit-learn · Matplotlib · PyTorch |
+| **Scale** | End-to-end ML pipelines |
+| **Performance** | Optimized vectorized preprocessing |
+| **AI Features** | Classification · Regression · Visualization |
+| **Impact** | Demonstrates practical machine learning workflows |
 | **Repository** | [View Repository](https://github.com/Subodh-7?tab=repositories) |
 
-Built as a hands-on learning ground for **deep learning fundamentals**, this repository reflects an ongoing transition from traditional ML toward neural network-based approaches.
+Built as a practical machine learning playground while transitioning toward AI engineering.
 
 </details>
 
