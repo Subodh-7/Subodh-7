@@ -224,22 +224,27 @@ Focused on building production-quality Java enterprise applications while system
 -->
 ## 📜 Certifications
 
-| 🏢 Organization | 📜 Certification |
-|----------------|------------------|
-| 🤖 Anthropic | Claude with the Anthropic API |
-| 🤖 Anthropic | Claude with Amazon Bedrock |
-| 🤖 Anthropic | Claude with Google Vertex AI |
-| 🤖 Anthropic | Model Context Protocol: Advanced Topics |
-| 🤖 Anthropic | Claude Code 101 |
-| 🤖 Anthropic | Claude Code in Action |
-| 🌐 Google | Google AI Agents Intensive Course |
-| ☁️ AWS | AWS Certified Cloud Practitioner |
-| 🗄️ Oracle | Oracle Certified |
-| 🌐 Cisco | Cisco Certified |
-| 🎓 NPTEL | NPTEL Certified |
-| 💻 JPMorgan Chase & Co. (Forage) | Software Engineering Job Simulation |
-| 📘 Great Learning Academy | Programming Basics |
-| 💙 Scaler Academy | JavaScript Bootcamp |
+<p align="center">
+
+<img src="https://img.shields.io/badge/Anthropic-Claude%20API-111111?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic-Amazon%20Bedrock-111111?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic-Google%20Vertex%20AI-111111?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic-MCP%20Advanced-111111?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic-Claude%20Code%20101-111111?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic-Claude%20Code%20in%20Action-111111?style=for-the-badge&logo=anthropic&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Google-AI%20Agents-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPTEL-Certified-7B1FA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JPMorgan-Software%20Engineering%20Simulation-0066CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Great%20Learning-Programming%20Basics-00A4EF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scaler-JavaScript%20Bootcamp-2962FF?style=for-the-badge"/>
+
+</p>
 ---
 
 ## 🏅 Coding Profiles
